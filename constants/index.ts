@@ -2,7 +2,7 @@
 export const SETTINGS_KEY = "exchange_settings" as const;
 
 /** Default manual rate when first initializing the database */
-export const DEFAULT_MANUAL_RATE = 121.5;
+export const DEFAULT_MANUAL_RATE = 131.5;
 
 /** Default live rate fallback */
 export const DEFAULT_LIVE_RATE = 0;
